@@ -213,10 +213,3 @@ A typical 20-page PDF costs less than $0.01 to process.
 - Uploaded files are stored locally in `backend/uploads/`
 - No data is sent to external services except OpenAI
 
-## 📝 License
-
-MIT License - Feel free to use and modify!
-
----
-
-Built with ❤️ using React, FastAPI, and OpenAI
